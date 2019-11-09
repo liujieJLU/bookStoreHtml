@@ -25,15 +25,16 @@ body a{
 }
 .logo {
 	float:left;
+	width: 1300px;
 }
 .header {
-	padding: 1em 0em;
+	padding: 0em 0em;
 }
 /*-- header_top --*/
 .top_bg{
 }
 .header_top{
-	padding:15px 0 5px;
+	padding:1px 0 1px;
 }
 .top_left{
 	float: left;
@@ -61,7 +62,7 @@ body a{
 .top_right {
 	float: right;
 	color: #ffffff;
-	margin-top: 7px;
+	margin: 76px 10px 0 1px;
 }
 .top_right ul{
 	padding:0;
@@ -1640,7 +1641,7 @@ p.product_descr {
 }
 /* end details */
 .chuk {
-	background: url(../images/img1.jpg) no-repeat;
+	background: url(../images/book/book74.jpg) no-repeat;
 	display: block;
 	background-size: cover;
 	min-height: 270px;
@@ -1651,7 +1652,7 @@ p.product_descr {
 	width: 49%;
 }
 .blanc {
-	background: url(../images/img2.jpg) no-repeat;
+	background: url(../images/book/book75.jpg) no-repeat;
 	display: block;
 	background-size: cover;
 	min-height: 270px;
