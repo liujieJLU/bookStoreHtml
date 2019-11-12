@@ -15,13 +15,13 @@ body a{
 }
 
 .banner{
-	background: url(../images/banner.jpg) no-repeat center top;
+	background: url(../images/book/back.jpg) no-repeat center top;
 	background-size: cover;
 	-webkit-background-size:cover; 
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-	min-height:520px;
+	min-height:720px;
 }
 .logo {
 	float:left;
@@ -429,7 +429,9 @@ label {
 }
 .head-nav ul{
 	margin:0;
+/*-- 外边距 --*/
 	padding:0;
+/*-- 内边距 --*/
 }
 .head-nav ul li{
 	display:inline-block;  
@@ -444,22 +446,28 @@ label {
 	display: block;
 }
 .banner-info{
-	margin:4em 0em;
+	margin:2em 1em;
+	text-align: left;
 }	
 .banner h1 {
-	font-size:2.5em;
+	font-size:4em;
+	/*-- 字体尺寸 --*/
 	font-weight: 400;
+	/*-- 字体粗细 --*/
 	color: #000000;
-	line-height: 1.8em;
-	margin: 1em 0em;
+	line-height: 2em;
+	/*-- 行高 --*/
+	margin: 2em 0em;
+	/*-- 外边距 --*/
 	text-align: left;
+	/*-- 规定文本的水平对齐方式 --*/
 }
 .banner p {
-	font-size: 1.1em;
+	font-size: 2.2em;
 	font-weight: 400;
 	color: #000000;
 	line-height: 1.8em;
-	margin: 1em 0em;
+	margin: 2em 0em;
 	text-align: left;
 }
 a.show-more {
@@ -1246,7 +1254,7 @@ label.spo {
 }
 .info {
    display: block;
-	background: url(../images/label_new.png) no-repeat;
+	background: url(..) no-repeat;
 	text-indent: -9999px;
 	width: 75px;
 	height: 75px;
@@ -1359,7 +1367,7 @@ label.spo {
 	padding: 5em 0em 0em;
 }
 .banner1{
-	background: url(../images/banner.jpg) no-repeat center top;
+	background: url(../images/book/back.jpg) no-repeat center top;
 	background-size: cover;
 	-webkit-background-size:cover; 
 	-moz-background-size:cover;

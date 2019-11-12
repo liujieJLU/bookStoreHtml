@@ -101,7 +101,7 @@
 .etalage li{ position:absolute }
 .etalage img{ vertical-align:bottom; max-width:none; }
 .etalage_thumb_image{
-	width:100% !important;
+	width:90% !important;
 }
 .etalage_zoom_area div{
 	width:530px !important;
